@@ -1,2 +1,1 @@
-# PreCurso-Henry
-Repositorio de prueba
+este es un proyecto de prueba, de como crear un repositorio
